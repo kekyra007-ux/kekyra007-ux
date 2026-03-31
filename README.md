@@ -1,4 +1,4 @@
-# Привет 👋  
+# Привет 
 Я Екатерина — фронтенд-разработчик и верстальщик  
 
 — Делаю адаптивную и аккуратную верстку  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Стек
+## Стек
 **Frontend:**
 - HTML / CSS / SCSS
 - JavaScript / TypeScript
@@ -30,15 +30,15 @@
 
 ---
 
-## 📂 Проекты
+## Проекты
 
-### 🔹 Application Factory
+### Application Factory
 Система генерации мобильных приложений  
 - Node.js + BullMQ + Redis  
 - Сборка в Docker  
 - Поддержка push-уведомлений  
 
-### 🔹 Brand Asset Generator
+### Brand Asset Generator
 Генератор логотипов и иконок  
 - Canvas API  
 - Генерация изображений на лету  
