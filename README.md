@@ -1,5 +1,4 @@
 # Привет 
-Я Екатерина — фронтенд-разработчик и верстальщик  
 
 — Делаю адаптивную и аккуратную верстку  
 — Работаю с TypeScript, React и Astro  
@@ -15,6 +14,7 @@
 - JavaScript / TypeScript
 - React
 - Astro
+- Next
 - Tailwind / CSS Modules / Styled Components
 
 **Backend / Tools:**
