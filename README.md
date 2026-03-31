@@ -1,16 +1,57 @@
-## Hi there 👋
+# Привет 👋  
+Я Екатерина — фронтенд-разработчик и верстальщик  
 
-<!--
-**kekyra007-ux/kekyra007-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+— Делаю адаптивную и аккуратную верстку  
+— Работаю с TypeScript, React и Astro  
+— Разрабатываю шаблоны сайтов и генераторы приложений  
+— Занимаюсь SEO и структурой контента  
+— Люблю автоматизацию и создание масштабируемых решений  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Стек
+**Frontend:**
+- HTML / CSS / SCSS
+- JavaScript / TypeScript
+- React
+- Astro
+- Tailwind / CSS Modules / Styled Components
+
+**Backend / Tools:**
+- Node.js
+- BullMQ / Redis
+- Docker
+- Canvas API
+
+**Другое:**
+- SEO (структура, мета, контент)
+- Генерация сайтов и приложений
+- Работа с JSON-структурами и шаблонами
+
+---
+
+## 📂 Проекты
+
+### 🔹 Application Factory
+Система генерации мобильных приложений  
+- Node.js + BullMQ + Redis  
+- Сборка в Docker  
+- Поддержка push-уведомлений  
+
+### 🔹 Brand Asset Generator
+Генератор логотипов и иконок  
+- Canvas API  
+- Генерация изображений на лету  
+- Используется для автоматизации брендинга  
+
+---
+
+## 🎯 Сейчас изучаю
+— Улучшение архитектуры проектов  
+— Генерацию шаблонов и автоматизацию  
+— Оптимизацию фронтенда и производительности  
+
+---
+
+## 📫 Контакты
+(можешь добавить позже)
